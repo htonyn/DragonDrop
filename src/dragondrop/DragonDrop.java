@@ -14,10 +14,6 @@ import javafx.scene.layout.GridPane;
 import javafx.scene.layout.StackPane;
 import javafx.stage.Stage;
 
-/**
- *
- * @author Ponk
- */
 public class DragonDrop extends Application {
     
     @Override
